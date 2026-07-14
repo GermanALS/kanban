@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kanban Project Manager
 
 ## Instructions
@@ -23,3 +24,7 @@ I can't wait to see your changes.
 When you've successfully built a Kanban app, if you'd like to post about it on LinkedIn and tag me, then I'll weigh in to amplify your success and draw more attention to your achievements.
 
 If you see other students doing this, please weigh in yourself to add your support and encouragement. It's so helpful for the community if we support each other.
+=======
+# kanban
+Esta App te permite trabajar y simular un tablero Kanban para administrar tus proyectos y tareas.
+>>>>>>> 039656e57faf3f365c031b3ee0b6afd3665dd74b
